@@ -1,0 +1,12 @@
+{
+  "name": "ujian",
+  "version": "1.0.0",
+  "description": "Ujian 1 JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node draw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Aditya Sadewo",
+  "license": "ISC"
+}
